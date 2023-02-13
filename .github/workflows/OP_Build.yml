@@ -6,7 +6,7 @@ on:
       ROM_URL:
         description: 'ROM_URL'
         required: true
-        default: 'https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD1981_A_1.12.0-update-full_1598237886.zip'
+        default: 'https://sysupwrdl.vivo.com.cn/upgrade/official/officialFiles/PD2242_A_13.0.13.7.W10.V000L1-update-full_1673594627.zip'
       REPACK_NAME:
         description: 'REPACK_NAME'
         required: true
